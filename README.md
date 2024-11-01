@@ -22,12 +22,12 @@ Designed using Balsamiq.
 
 ### Original low-fi wireframe
 <p align="center">
-  <img src="Images/Splash screen.png" width="150">
-  <img src="Images/Original_Main.png" width="150">
-  <img src="Images/File format.png" width="150">
-  <img src="Images/hover mode.png" width="150">
-  <img src="Images/share.png" width="150">
-  <img src="Images/Split.png" width="150">
+  <img src="Images/Splash screen.png" width="120">
+  <img src="Images/Original_Main.png" width="120">
+  <img src="Images/File format.png" width="120">
+  <img src="Images/hover mode.png" width="120">
+  <img src="Images/share.png" width="120">
+  <img src="Images/Split.png" width="120">
 </p>
 
 ### Improved with added features 
