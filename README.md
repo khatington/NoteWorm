@@ -6,12 +6,12 @@ Designed using Balsamiq.
 ### The project
 `NoteWorm` is a mobile note-taking app designed for students who need to digitise their way of studying. If you are those who want to get away from the physical clutter of books and the smell of paper, then this is the app for you! 
 
-- `Reasearch_Features_Sketch.pdf`: containing my research on what is a note-taking app, considered features, and hand drawn sketches showing my designs. 
-- `Persona.pdf`: my persona representing my users, outling who they are and how do they represent the users that will use my app. 
-- `Scenario.pdf`: the user story of my persona, explaining why they need this app, how they've come to this app and why it solves their problem.
-- `Self-Reflection`: explaining what my original wireframe lacked and what design/ feature re-improvements I have done in my improved low-fi wireframe.
-- `Wireframes`: folder containing my first wireframe and my improved one.
-- `PDF files`: folder containig the clickable PDF forms of my 2 wireframes. 
+- `Reasearch_Features_Sketch.pdf`: research on existing apps, considered features, and hand drawn sketches of my design idea. 
+- `Persona.pdf`: persona representing my users, outling who they are and how do they represent the users that will use my app. 
+- `Scenario.pdf`: scenario explaining why they need this app, how they've come to this app and why it solves their problem.
+- `Self-Reflection`: reflection on my first wireframe and decisions made on design and feature improvements. 
+- `Wireframes`: folder containing my first and improved wireframes.
+- `PDF files`: folder containig the clickable PDF forms of my two wireframes. 
 
 ### The Criteria
 - Conduct online research on existing apps and identify key features.
