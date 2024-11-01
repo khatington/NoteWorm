@@ -36,6 +36,7 @@ Designed using Balsamiq.
   <img src="Images/Main with new note.png" width="120">
   <img src="Images/Create New Subject.png" width="120">
   <img src="Images/searching.png" width="120">
+<br/>
   <img src="Images/Click from deadline.png" width="120">
   <img src="Images/Profile from menu.png" width="120">
   <img src="Images/grammar.png" width="120">
