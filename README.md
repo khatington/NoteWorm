@@ -13,7 +13,7 @@ Designed using Balsamiq.
 - `Wireframes`: folder containing my first and improved wireframes.
 - `PDF files`: folder containig the clickable PDF forms of my two wireframes. 
 
-### The Criteria
+### Criteria
 - Conduct online research on existing apps and identify key features.
 - Develop a realistic scenario and persona of the most typical user of the mobile app.
 - Prepare quick hand-drawn sketches of your app design.
