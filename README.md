@@ -20,6 +20,28 @@ Designed using Balsamiq.
 - Create fully clickable, low fidelity wireframes of your proposed design.
 - Reflect and re-improve your design from feedback received from peers.
 
+### Original low-fi wireframe
+<p align="center">
+  <img src="Images/Splash screen.png" width="150">
+  <img src="Images/Original_Main.png" width="150">
+  <img src="Images/File format.png" width="150">
+  <img src="Images/hover mode.png" width="150">
+  <img src="Images/share.png" width="150">
+  <img src="Images/Split.png" width="150">
+</p>
+
+### Improved with added features 
+<p align="center">
+  <img src="Images/Splash screen.png" width="120">
+  <img src="Images/Main with new note.png" width="120">
+  <img src="Images/Create New Subject.png" width="120">
+  <img src="Images/searching.png" width="120">
+  <img src="Images/Click from deadline.png" width="120">
+  <img src="Images/Profile from menu.png" width="120">
+  <img src="Images/grammar.png" width="120">
+  <img src="Images/note save question.png" width="120">
+</p>
+
 > [!NOTE]
 > You can download raw files of my PDFs to interact. <br/>
 
