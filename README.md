@@ -45,4 +45,5 @@ Designed using Balsamiq.
 
 > [!NOTE]
 > You can download raw files of my PDFs to interact. <br/>
+> References contained in my research and persona. 
 
