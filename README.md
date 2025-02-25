@@ -44,6 +44,6 @@ Designed using Balsamiq.
 </p>
 
 > [!NOTE]
-> You can download raw files of my PDFs to interact. <br/>
+> You can download raw files of my PDFs to interact [here](https://github.com/khatington/NoteWorm/tree/main/PDF%20files) <br/>
 > References contained in my research and persona. 
 
